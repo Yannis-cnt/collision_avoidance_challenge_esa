@@ -1,1 +1,1 @@
-# collision_avoidance_challenge_esa
+# Collision Avoidance Challenge - Competition by ESA
