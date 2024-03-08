@@ -6,8 +6,6 @@ This repository contains material around the "Collision Avoidance Challenge" hos
 
 **requirements.txt**: A list of Python libraries required to run the notebooks. Install them using pip install -r requirements.txt.
 
-**data/**: Directory containing the datasets used in the notebooks.
-
 **magpies_models/**: Models associated with the solution proposed by the Magpies team from the competition.
 
 **images/**: Images used within the notebooks for illustration purposes.
