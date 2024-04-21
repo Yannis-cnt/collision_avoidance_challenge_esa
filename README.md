@@ -14,4 +14,4 @@ This repository contains material around the "Collision Avoidance Challenge" hos
 
 **reproduce_solutions.ipynb**: A Jupyter notebook dedicated to walking through the article and reproducing/implementing methods proposed by the top teams.
 
-**my_solution.ipynb**: A Jupyter notebook presenting an alternative solution to the collision avoidance challenge. (coming soon!)
+**contributions.ipynb**: A Jupyter notebook presenting alternative solutions to the collision avoidance challenge. (1 solution presented for now, more to come!)
